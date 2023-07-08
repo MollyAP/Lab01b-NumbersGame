@@ -1,0 +1,8 @@
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\bin\Debug\template.exe.config
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\bin\Debug\template.exe
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\bin\Debug\template.pdb
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\obj\Debug\template.exe
+C:\Users\staym\Documents\GitHub\Lab01b-NumbersGame\Game\obj\Debug\template.pdb
